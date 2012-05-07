@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'jQM' target in the 'jQM' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
